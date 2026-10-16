@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/bhumimusale-dev/Leetcode-sums/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/bhumimusale-dev/Leetcode-sums/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/bhumimusale-dev/Leetcode-sums/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/bhumimusale-dev/Leetcode-sums/tree/master/0217-contains-duplicate) |
@@ -11,10 +12,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/bhumimusale-dev/Leetcode-sums/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/bhumimusale-dev/Leetcode-sums/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/bhumimusale-dev/Leetcode-sums/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/bhumimusale-dev/Leetcode-sums/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/bhumimusale-dev/Leetcode-sums/tree/master/0217-contains-duplicate) |
 ## Prefix Sum
@@ -33,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/bhumimusale-dev/Leetcode-sums/tree/master/0056-merge-intervals) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/bhumimusale-dev/Leetcode-sums/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
