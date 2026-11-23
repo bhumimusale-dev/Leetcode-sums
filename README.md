@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/bhumimusale-dev/Leetcode-sums/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/bhumimusale-dev/Leetcode-sums/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/bhumimusale-dev/Leetcode-sums/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/bhumimusale-dev/Leetcode-sums/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/bhumimusale-dev/Leetcode-sums/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/bhumimusale-dev/Leetcode-sums/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/bhumimusale-dev/Leetcode-sums/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/bhumimusale-dev/Leetcode-sums/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/bhumimusale-dev/Leetcode-sums/tree/master/0242-valid-anagram) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/bhumimusale-dev/Leetcode-sums/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/bhumimusale-dev/Leetcode-sums/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/bhumimusale-dev/Leetcode-sums/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/bhumimusale-dev/Leetcode-sums/tree/master/0344-reverse-string) |
 ## Math
 |  |
